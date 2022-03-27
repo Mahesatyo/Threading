@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\mahes\source\repos\threading\threading\source.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Threading.vcxproj -> C:\Users\mahes\source\repos\Threading\Debug\Threading.exe
